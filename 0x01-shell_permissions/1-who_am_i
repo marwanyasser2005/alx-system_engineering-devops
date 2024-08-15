@@ -1,8 +1,2 @@
-[Got]
-
-(0 chars long)
-
-[Expected]
-root
-
-(5 chars long)
+#!/bin/bash
+id -un
