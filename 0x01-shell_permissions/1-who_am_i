@@ -1,2 +1,10 @@
 #!/bin/bash
 id -un
+[Got]
+
+(0 chars long)
+
+[Expected]
+root
+
+(5 chars long)
